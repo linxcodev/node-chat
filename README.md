@@ -11,14 +11,14 @@ Aplikasi chat menggunakan express js dan socket io
 - List user connected
 
 ## Instalation
-** Clone **
+**Clone**
 ```
 git clone https://github.com/linxcodev/node-chat.git
 cd node-chat
 yarn init
 ```
 
-** Running Server **
+**Running Server**
 ```
 node server.js
 ```
