@@ -15,7 +15,7 @@ Aplikasi chat menggunakan express js dan socket io
 ```
 git clone https://github.com/linxcodev/node-chat.git
 cd node-chat
-yarn init
+yarn install
 ```
 
 **Running Server**
